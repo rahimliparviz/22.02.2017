@@ -1,0 +1,137 @@
+/*header*/
+.header{
+	height: 180px;
+	display: flex;
+	align-items: center;
+	align-content: flex-end;
+
+}
+
+.menu>ul>li{
+	display: inline-block;
+	margin:5px;
+}
+
+.network{
+	display: flex;
+	justify-content: flex-end;
+	margin: 5px
+}
+.network>i{
+	margin: 5px;
+}
+
+.menu{
+	display: flex;
+	justify-content: flex-end;
+
+}
+.logo img{
+	width: 346px;
+	height: 82px;
+}
+/*header-son*/
+/*slider*/
+
+.col12>.col3>i{
+color: gray;
+}
+
+.col12>.col3{
+text-align: center;
+}
+
+.a{margin:20px 0;}
+/*slider-son*/
+.text{
+	text-align: center;
+	text-transform: uppercase;
+}
+/*fea-works*/
+.fea-works img{
+	height:335px; 
+	width: 283px;
+	margin-top: 10px;
+	border-radius: 2%;
+}
+.fea-works{
+	margin: 20px 0;
+}
+
+
+/*fea-works-son*/
+/*lat-works*/
+.lat-works div ul li{
+	list-style-type: none;
+	margin: 10px 0;
+
+}
+span{color: red;}
+.circle{
+	height: 90px;
+	width: 90px;
+	background-color: gray;
+	border-radius: 50%;
+	text-align: center;
+}
+.circle p{
+	margin-top: 25px;
+}
+.news>div>div{
+	margin-top: -18px;
+}
+
+
+
+
+/*lat-works-son*/
+/*background*/
+.p{
+	background-size: cover;
+
+	height: 900px;
+	width: 100%;
+	background-color: orange;
+	background-image: url(../img/anna.jpg);
+}
+/*background-son*/
+/*footer*/
+.footer{
+	height: 180px;
+	display: flex;
+	align-items: center;
+	align-content: flex-end;
+background-color: brown;
+margin:20px 0;
+}
+
+.menu>ul>li{
+	display: inline-block;
+	margin:5px;
+}
+
+.network{
+	display: flex;
+	justify-content: flex-end;
+	margin: 5px
+}
+.network>i{
+	margin: 5px;
+}
+
+.menu{
+	display: flex;
+	justify-content: flex-end;
+
+}
+.logo img{
+	width: 346px;
+	height: 82px;
+}
+
+
+
+
+
+
+
